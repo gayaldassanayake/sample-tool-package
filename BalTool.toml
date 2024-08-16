@@ -1,0 +1,5 @@
+[tool]
+id="abcd"
+
+[[dependency]]
+path="./resources/sample.jar"
